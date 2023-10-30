@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header {
+  max-width: 550px;
+  /*   display: flex;
+  justify-content: flex-start; */
+}
+.introduction {
+  margin: 0 30px;
+}
+.container {
+  text-align: left;
+}
+.bb {
+  margin: 0 auto;
+}
+main {
+  margin-top: 100px;
+  width: 400px;
+  text-align: -webkit-center;
+}
+.principal-draw {
+  margin: 0;
+}
+.container-small {
+  padding: 0 10px;
+}
